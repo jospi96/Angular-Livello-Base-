@@ -1,4 +1,4 @@
-/*import { Product } from './products';
+import { Product } from './products';
 import { Injectable } from '@angular/core';
 
 @Injectable({
@@ -19,4 +19,4 @@ export class CartService {
     this.items = [];
     return this.items;
   }
-}*/
+}
